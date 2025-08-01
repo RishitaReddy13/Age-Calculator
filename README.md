@@ -6,18 +6,39 @@ Built using **HTML**, **CSS**, **JavaScript**, and the **Luxon.js** library for 
 
 ---
 
-## 🚀 Live Demo
-👉 [Click here to try it](https://rishitareddy13.github.io/Age-Calculator/)
+## 🚀 Live Demo  
+👉 [Click here to try it!](https://rishitareddy13.github.io/Age-Calculator/)
 
-**Project URL:** https://rishitareddy13.github.io/Age-Calculator/
+**Project URL:** file:///Users/rishidharreddygarlapati/age-calculator/index.html
 
 ---
-Project URL: https://rishitareddy13.github.io/Age-Calculator/
-## 🔍 Features
+
+## ✨ Features
 - 📅 Select your birth date with a date picker  
-- 🧠 Calculates age in years and months  
-- 📱 Works on desktop & mobile  
+- 🔢 Calculates age in years and months  
+- 💻 Works on desktop & mobile  
 - ⚡ Lightweight (no backend required)  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6)**  
+- **Luxon.js** (for handling date & time)
+
+---
+
+## 📸 Screenshots
+(Add a screenshot of your app here for better presentation)
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 
 
 # Luxon
