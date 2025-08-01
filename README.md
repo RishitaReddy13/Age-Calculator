@@ -11,11 +11,8 @@ Built using **HTML**, **CSS**, **JavaScript**, and the **Luxon.js** library for 
 
 **Project URL:** https://rishitareddy13.github.io/Age-Calculator/
 
-
-Project URL: https://rishitareddy13.github.io/Age-Calculator/
-
 ---
-
+Project URL: https://rishitareddy13.github.io/Age-Calculator/
 ## 🔍 Features
 - 📅 Select your birth date with a date picker  
 - 🧠 Calculates age in years and months  
