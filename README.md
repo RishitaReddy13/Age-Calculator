@@ -1,3 +1,23 @@
+
+
+# 🧮 Age Calculator
+
+A simple and elegant web app that calculates your exact age based on your date of birth.  
+Built using **HTML**, **CSS**, **JavaScript**, and the **Luxon.js** library for accurate date calculations.
+
+---
+
+## 🚀 Live Demo
+👉 [Click here to try it](https://rishitareddy13.github.io/Age-Calculator/)
+
+---
+
+## 🔍 Features
+- 📅 Select your birth date with a date picker
+- 🧠 Calculates age in years and months
+- 📱 Works on desktop & mobile
+- ⚡ Lightweight (no backend required)
+
 # Luxon
 
 [![MIT License][license-image]][license] [![Build Status][github-action-image]][github-action-url] [![NPM version][npm-version-image]][npm-url] [![Coverage Status][test-coverage-image]][test-coverage-url] [![PRs welcome][contributing-image]][contributing-url]
